@@ -75,7 +75,7 @@ These features collectively reduce operational complexity, improve shipping time
 <img src="https://drive.google.com/uc?export=view&id=16GPccgw1mUkqXJFEgnBxrvcdlH8lrHot" alt="Check Detailed Features"> 
 </a>
 
-## Coupon Codes
+## Spocket Coupon Codes
 
 As of May 8, 2025, several verified Spocket coupon codes and offers are available to help users save on subscriptions. Below are the active codes and instructions for applying them:
 
